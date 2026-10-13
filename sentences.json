@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 2026101302,
+  "version": 2026101303,
   "languages": {
     "en": [
       {
@@ -389,7 +389,7 @@
       },
       {
         "id": "s11",
-        "meaning": "화장실이 어디에요?",
+        "meaning": "화장실이 어디예요?",
         "words": [
           {
             "w": "Where",
@@ -811,7 +811,7 @@
       },
       {
         "id": "ja11",
-        "meaning": "화장실이 어디에요?",
+        "meaning": "화장실이 어디예요?",
         "words": [
           {
             "w": "トイレ",
@@ -1167,7 +1167,7 @@
       },
       {
         "id": "zh11",
-        "meaning": "화장실이 어디에요?",
+        "meaning": "화장실이 어디예요?",
         "words": [
           {
             "w": "洗手间",
@@ -1517,7 +1517,7 @@
       },
       {
         "id": "es11",
-        "meaning": "화장실이 어디에요?",
+        "meaning": "화장실이 어디예요?",
         "words": [
           {
             "w": "Dónde",
@@ -1834,7 +1834,7 @@
       },
       {
         "id": "vi11",
-        "meaning": "화장실이 어디에요?",
+        "meaning": "화장실이 어디예요?",
         "words": [
           {
             "w": "Nhà vệ sinh",
@@ -2217,7 +2217,7 @@
       },
       {
         "id": "fr11",
-        "meaning": "화장실이 어디에요?",
+        "meaning": "화장실이 어디예요?",
         "words": [
           {
             "w": "Où",
@@ -2627,7 +2627,7 @@
       },
       {
         "id": "de11",
-        "meaning": "화장실이 어디에요?",
+        "meaning": "화장실이 어디예요?",
         "words": [
           {
             "w": "Wo",
@@ -2971,7 +2971,7 @@
       },
       {
         "id": "ru11",
-        "meaning": "화장실이 어디에요?",
+        "meaning": "화장실이 어디예요?",
         "words": [
           {
             "w": "Где",
@@ -3254,7 +3254,7 @@
             "m": "the bathroom (+ subject marker)"
           },
           {
-            "w": "어디에요",
+            "w": "어디예요",
             "r": "eodieyo",
             "m": "where is it (polite)"
           }
@@ -11563,5 +11563,113 @@
       "ko11.0": "洗手間（+ 主語助詞）",
       "ko11.1": "在哪裡（敬語）"
     }
-  }
+  },
+  "levels": [
+    {
+      "id": "elementary",
+      "name": "초등"
+    },
+    {
+      "id": "middle",
+      "name": "중등"
+    },
+    {
+      "id": "high",
+      "name": "고등"
+    },
+    {
+      "id": "adult",
+      "name": "성인"
+    }
+  ],
+  "themes": [
+    {
+      "id": "basic",
+      "name": "기본문장"
+    },
+    {
+      "id": "sports",
+      "name": "스포츠"
+    },
+    {
+      "id": "travel",
+      "name": "여행"
+    },
+    {
+      "id": "restaurant",
+      "name": "식당"
+    },
+    {
+      "id": "entertainment",
+      "name": "연예"
+    }
+  ],
+  "rows": [
+    {
+      "level": "elementary",
+      "themes": [
+        "basic"
+      ]
+    },
+    {
+      "level": "elementary",
+      "themes": [
+        "basic"
+      ]
+    },
+    {
+      "level": "elementary",
+      "themes": [
+        "basic"
+      ]
+    },
+    {
+      "level": "elementary",
+      "themes": [
+        "basic"
+      ]
+    },
+    {
+      "level": "elementary",
+      "themes": [
+        "basic"
+      ]
+    },
+    {
+      "level": "elementary",
+      "themes": [
+        "basic"
+      ]
+    },
+    {
+      "level": "elementary",
+      "themes": [
+        "basic"
+      ]
+    },
+    {
+      "level": "elementary",
+      "themes": [
+        "basic"
+      ]
+    },
+    {
+      "level": "elementary",
+      "themes": [
+        "basic"
+      ]
+    },
+    {
+      "level": "elementary",
+      "themes": [
+        "basic"
+      ]
+    },
+    {
+      "level": "elementary",
+      "themes": [
+        "basic"
+      ]
+    }
+  ]
 }
