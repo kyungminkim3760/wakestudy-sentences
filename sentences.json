@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 2026101301,
+  "version": 2026101302,
   "languages": {
     "en": [
       {
@@ -384,6 +384,36 @@
             "r": "/təˈmɑːroʊ/",
             "m": "내일",
             "h": "투마로우"
+          }
+        ]
+      },
+      {
+        "id": "s11",
+        "meaning": "화장실이 어디에요?",
+        "words": [
+          {
+            "w": "Where",
+            "r": "/wɛr/",
+            "m": "어디",
+            "h": "웨어"
+          },
+          {
+            "w": "is",
+            "r": "/ɪz/",
+            "m": "~이다/있다 (be의 3인칭 단수)",
+            "h": "이즈"
+          },
+          {
+            "w": "the",
+            "r": "/ðə/",
+            "m": "그 (정관사)",
+            "h": "더"
+          },
+          {
+            "w": "bathroom",
+            "r": "/ˈbæθruːm/",
+            "m": "화장실",
+            "h": "배스룸"
           }
         ]
       }
@@ -778,6 +808,42 @@
             "h": "이키마스"
           }
         ]
+      },
+      {
+        "id": "ja11",
+        "meaning": "화장실이 어디에요?",
+        "words": [
+          {
+            "w": "トイレ",
+            "r": "toire",
+            "m": "화장실",
+            "h": "토이레"
+          },
+          {
+            "w": "は",
+            "r": "wa",
+            "m": "~은/는 (조사)",
+            "h": "와"
+          },
+          {
+            "w": "どこ",
+            "r": "doko",
+            "m": "어디",
+            "h": "도코"
+          },
+          {
+            "w": "です",
+            "r": "desu",
+            "m": "~입니다",
+            "h": "데스"
+          },
+          {
+            "w": "か",
+            "r": "ka",
+            "m": "~까? (의문 조사)",
+            "h": "카"
+          }
+        ]
       }
     ],
     "zh": [
@@ -1096,6 +1162,30 @@
             "r": "túshūguǎn",
             "m": "도서관",
             "h": "투수관"
+          }
+        ]
+      },
+      {
+        "id": "zh11",
+        "meaning": "화장실이 어디에요?",
+        "words": [
+          {
+            "w": "洗手间",
+            "r": "xǐshǒujiān",
+            "m": "화장실",
+            "h": "시서우젠"
+          },
+          {
+            "w": "在",
+            "r": "zài",
+            "m": "~에 있다",
+            "h": "짜이"
+          },
+          {
+            "w": "哪里",
+            "r": "nǎlǐ",
+            "m": "어디",
+            "h": "나리"
           }
         ]
       }
@@ -1424,6 +1514,36 @@
             "h": "비블리오테카"
           }
         ]
+      },
+      {
+        "id": "es11",
+        "meaning": "화장실이 어디에요?",
+        "words": [
+          {
+            "w": "Dónde",
+            "r": "/ˈdonde/",
+            "m": "어디",
+            "h": "돈데"
+          },
+          {
+            "w": "está",
+            "r": "/esˈta/",
+            "m": "있다 (estar의 3인칭 단수)",
+            "h": "에스타"
+          },
+          {
+            "w": "el",
+            "r": "/el/",
+            "m": "그 (남성 정관사)",
+            "h": "엘"
+          },
+          {
+            "w": "baño",
+            "r": "/ˈbaɲo/",
+            "m": "화장실",
+            "h": "바뇨"
+          }
+        ]
       }
     ],
     "vi": [
@@ -1709,6 +1829,27 @@
             "w": "thư viện",
             "r": "트 비엔",
             "m": "도서관"
+          }
+        ]
+      },
+      {
+        "id": "vi11",
+        "meaning": "화장실이 어디에요?",
+        "words": [
+          {
+            "w": "Nhà vệ sinh",
+            "r": "냐 베 신",
+            "m": "화장실"
+          },
+          {
+            "w": "ở",
+            "r": "어",
+            "m": "~에 있다"
+          },
+          {
+            "w": "đâu",
+            "r": "더우",
+            "m": "어디"
           }
         ]
       }
@@ -2071,6 +2212,36 @@
             "r": "/biblijɔtɛk/",
             "m": "도서관",
             "h": "비블리오텍"
+          }
+        ]
+      },
+      {
+        "id": "fr11",
+        "meaning": "화장실이 어디에요?",
+        "words": [
+          {
+            "w": "Où",
+            "r": "/u/",
+            "m": "어디",
+            "h": "우"
+          },
+          {
+            "w": "sont",
+            "r": "/sɔ̃/",
+            "m": "있다 (être의 3인칭 복수)",
+            "h": "송"
+          },
+          {
+            "w": "les",
+            "r": "/le/",
+            "m": "그 (복수 정관사)",
+            "h": "레"
+          },
+          {
+            "w": "toilettes",
+            "r": "/twalɛt/",
+            "m": "화장실 (항상 복수)",
+            "h": "투알레트"
           }
         ]
       }
@@ -2453,6 +2624,36 @@
             "h": "비블리오테크"
           }
         ]
+      },
+      {
+        "id": "de11",
+        "meaning": "화장실이 어디에요?",
+        "words": [
+          {
+            "w": "Wo",
+            "r": "/voː/",
+            "m": "어디",
+            "h": "보"
+          },
+          {
+            "w": "ist",
+            "r": "/ɪst/",
+            "m": "있다 (sein의 3인칭 단수)",
+            "h": "이스트"
+          },
+          {
+            "w": "die",
+            "r": "/diː/",
+            "m": "그 (여성 정관사)",
+            "h": "디"
+          },
+          {
+            "w": "Toilette",
+            "r": "/toaˈlɛtə/",
+            "m": "화장실",
+            "h": "토알레테"
+          }
+        ]
       }
     ],
     "ru": [
@@ -2767,6 +2968,24 @@
             "h": "비블리아테쿠"
           }
         ]
+      },
+      {
+        "id": "ru11",
+        "meaning": "화장실이 어디에요?",
+        "words": [
+          {
+            "w": "Где",
+            "r": "/ɡdʲe/",
+            "m": "어디",
+            "h": "그데"
+          },
+          {
+            "w": "туалет",
+            "r": "/tʊɐˈlʲet/",
+            "m": "화장실",
+            "h": "투알례트"
+          }
+        ]
       }
     ],
     "ko": [
@@ -3022,6 +3241,22 @@
             "w": "것이다",
             "r": "geosida",
             "m": "will (-ㄹ 것이다)"
+          }
+        ]
+      },
+      {
+        "id": "ko11",
+        "meaning": "Where is the bathroom?",
+        "words": [
+          {
+            "w": "화장실이",
+            "r": "hwajangsiri",
+            "m": "the bathroom (+ subject marker)"
+          },
+          {
+            "w": "어디에요",
+            "r": "eodieyo",
+            "m": "where is it (polite)"
           }
         ]
       }
@@ -3543,7 +3778,47 @@
       "ru10.1": "أنا",
       "ru10.2": "سأذهب (пойти)",
       "ru10.3": "إلى (اتجاه)",
-      "ru10.4": "إلى المكتبة (حالة النصب من библиотека)"
+      "ru10.4": "إلى المكتبة (حالة النصب من библиотека)",
+      "s11": "أين الحمّام؟",
+      "s11.0": "أين",
+      "s11.1": "يكون / يوجد (المفرد الغائب من be)",
+      "s11.2": "الـ (أداة التعريف)",
+      "s11.3": "حمّام",
+      "ja11": "أين الحمّام؟",
+      "ja11.0": "حمّام",
+      "ja11.1": "أداة الموضوع (أداة)",
+      "ja11.2": "أين",
+      "ja11.3": "يكون (مهذّب)",
+      "ja11.4": "أداة الاستفهام (أداة)",
+      "zh11": "أين الحمّام؟",
+      "zh11.0": "حمّام",
+      "zh11.1": "يوجد في",
+      "zh11.2": "أين",
+      "es11": "أين الحمّام؟",
+      "es11.0": "أين",
+      "es11.1": "يوجد (المفرد الغائب من estar)",
+      "es11.2": "الـ (أداة التعريف للمذكّر)",
+      "es11.3": "حمّام",
+      "vi11": "أين الحمّام؟",
+      "vi11.0": "حمّام",
+      "vi11.1": "يوجد في",
+      "vi11.2": "أين",
+      "fr11": "أين الحمّام؟",
+      "fr11.0": "أين",
+      "fr11.1": "يوجد (الجمع الغائب من être)",
+      "fr11.2": "الـ (أداة التعريف للجمع)",
+      "fr11.3": "حمّام (دائمًا بصيغة الجمع)",
+      "de11": "أين الحمّام؟",
+      "de11.0": "أين",
+      "de11.1": "يوجد (المفرد الغائب من sein)",
+      "de11.2": "الـ (أداة التعريف للمؤنّث)",
+      "de11.3": "حمّام",
+      "ru11": "أين الحمّام؟",
+      "ru11.0": "أين",
+      "ru11.1": "حمّام",
+      "ko11": "أين الحمّام؟",
+      "ko11.0": "الحمّام (+ أداة الفاعل)",
+      "ko11.1": "أين هو (مهذّب)"
     },
     "de": {
       "s01": "Ich bin heute zur Schule gegangen",
@@ -3997,7 +4272,42 @@
       "ru10.1": "ich",
       "ru10.2": "werde gehen (пойти)",
       "ru10.3": "in, nach (Richtung)",
-      "ru10.4": "Bibliothek (Akkusativ von библиотека)"
+      "ru10.4": "Bibliothek (Akkusativ von библиотека)",
+      "s11": "Wo ist die Toilette?",
+      "s11.0": "wo",
+      "s11.1": "ist (3. Person Singular von be)",
+      "s11.2": "der/die/das (bestimmter Artikel)",
+      "s11.3": "Badezimmer, Toilette",
+      "ja11": "Wo ist die Toilette?",
+      "ja11.0": "Toilette",
+      "ja11.1": "Themenmarker (Partikel)",
+      "ja11.2": "wo",
+      "ja11.3": "ist (höflich)",
+      "ja11.4": "Fragepartikel",
+      "zh11": "Wo ist die Toilette?",
+      "zh11.0": "Toilette",
+      "zh11.1": "sich befinden in",
+      "zh11.2": "wo",
+      "es11": "Wo ist die Toilette?",
+      "es11.0": "wo",
+      "es11.1": "ist, befindet sich (3. Person Singular von estar)",
+      "es11.2": "der (maskuliner bestimmter Artikel)",
+      "es11.3": "Badezimmer, Toilette",
+      "vi11": "Wo ist die Toilette?",
+      "vi11.0": "Toilette",
+      "vi11.1": "sich befinden in",
+      "vi11.2": "wo",
+      "fr11": "Wo ist die Toilette?",
+      "fr11.0": "wo",
+      "fr11.1": "sind (3. Person Plural von être)",
+      "fr11.2": "die (bestimmter Artikel Plural)",
+      "fr11.3": "Toilette (immer Plural)",
+      "ru11": "Wo ist die Toilette?",
+      "ru11.0": "wo",
+      "ru11.1": "Toilette",
+      "ko11": "Wo ist die Toilette?",
+      "ko11.0": "die Toilette (+ Subjektmarker)",
+      "ko11.1": "wo ist es (höflich)"
     },
     "en": {
       "ja01": "I went to school today.",
@@ -4401,7 +4711,39 @@
       "ru10.1": "I",
       "ru10.2": "will go (пойти)",
       "ru10.3": "to (direction)",
-      "ru10.4": "library (библиотека, accusative)"
+      "ru10.4": "library (библиотека, accusative)",
+      "ja11": "Where is the bathroom?",
+      "ja11.0": "toilet, bathroom",
+      "ja11.1": "topic marker (particle)",
+      "ja11.2": "where",
+      "ja11.3": "is (polite)",
+      "ja11.4": "question marker (particle)",
+      "zh11": "Where is the bathroom?",
+      "zh11.0": "restroom, bathroom",
+      "zh11.1": "to be at, located in",
+      "zh11.2": "where",
+      "es11": "Where is the bathroom?",
+      "es11.0": "where",
+      "es11.1": "is (3rd person singular of estar)",
+      "es11.2": "the (masculine definite article)",
+      "es11.3": "bathroom",
+      "vi11": "Where is the bathroom?",
+      "vi11.0": "toilet, bathroom",
+      "vi11.1": "to be at, located in",
+      "vi11.2": "where",
+      "fr11": "Where is the bathroom?",
+      "fr11.0": "where",
+      "fr11.1": "are (3rd person plural of être)",
+      "fr11.2": "the (plural definite article)",
+      "fr11.3": "toilet, bathroom (always plural)",
+      "de11": "Where is the bathroom?",
+      "de11.0": "where",
+      "de11.1": "is (3rd person singular of sein)",
+      "de11.2": "the (feminine definite article)",
+      "de11.3": "toilet, bathroom",
+      "ru11": "Where is the bathroom?",
+      "ru11.0": "where",
+      "ru11.1": "toilet, bathroom"
     },
     "es": {
       "s01": "Hoy fui a la escuela.",
@@ -4864,7 +5206,42 @@
       "ru10.1": "yo",
       "ru10.2": "iré (пойти)",
       "ru10.3": "a, hacia (dirección)",
-      "ru10.4": "biblioteca (acusativo de библиотека)"
+      "ru10.4": "biblioteca (acusativo de библиотека)",
+      "s11": "¿Dónde está el baño?",
+      "s11.0": "dónde",
+      "s11.1": "está, es (3.ª persona singular de be)",
+      "s11.2": "el, la (artículo definido)",
+      "s11.3": "baño",
+      "ja11": "¿Dónde está el baño?",
+      "ja11.0": "baño",
+      "ja11.1": "marcador de tema (partícula)",
+      "ja11.2": "dónde",
+      "ja11.3": "es (cortés)",
+      "ja11.4": "marcador de pregunta (partícula)",
+      "zh11": "¿Dónde está el baño?",
+      "zh11.0": "baño",
+      "zh11.1": "estar en",
+      "zh11.2": "dónde",
+      "vi11": "¿Dónde está el baño?",
+      "vi11.0": "baño",
+      "vi11.1": "estar en",
+      "vi11.2": "dónde",
+      "fr11": "¿Dónde está el baño?",
+      "fr11.0": "dónde",
+      "fr11.1": "están (3.ª persona plural de être)",
+      "fr11.2": "los, las (artículo definido plural)",
+      "fr11.3": "baño (siempre en plural)",
+      "de11": "¿Dónde está el baño?",
+      "de11.0": "dónde",
+      "de11.1": "está (3.ª persona singular de sein)",
+      "de11.2": "la (artículo definido femenino)",
+      "de11.3": "baño",
+      "ru11": "¿Dónde está el baño?",
+      "ru11.0": "dónde",
+      "ru11.1": "baño",
+      "ko11": "¿Dónde está el baño?",
+      "ko11.0": "el baño (+ marcador de sujeto)",
+      "ko11.1": "dónde está (cortés)"
     },
     "fr": {
       "s01": "Je suis allé à l'école aujourd'hui.",
@@ -5321,7 +5698,42 @@
       "ru10.1": "je",
       "ru10.2": "irai (пойти)",
       "ru10.3": "à, vers (direction)",
-      "ru10.4": "bibliothèque (accusatif de библиотека)"
+      "ru10.4": "bibliothèque (accusatif de библиотека)",
+      "s11": "Où sont les toilettes ?",
+      "s11.0": "où",
+      "s11.1": "est (3e personne du singulier de be)",
+      "s11.2": "le, la (article défini)",
+      "s11.3": "toilettes, salle de bain",
+      "ja11": "Où sont les toilettes ?",
+      "ja11.0": "toilettes",
+      "ja11.1": "marqueur de thème (particule)",
+      "ja11.2": "où",
+      "ja11.3": "est (forme polie)",
+      "ja11.4": "particule interrogative",
+      "zh11": "Où sont les toilettes ?",
+      "zh11.0": "toilettes",
+      "zh11.1": "se trouver à, être à",
+      "zh11.2": "où",
+      "es11": "Où sont les toilettes ?",
+      "es11.0": "où",
+      "es11.1": "est, se trouve (3e personne du singulier de estar)",
+      "es11.2": "le (article défini masculin)",
+      "es11.3": "toilettes, salle de bain",
+      "vi11": "Où sont les toilettes ?",
+      "vi11.0": "toilettes",
+      "vi11.1": "se trouver à, être à",
+      "vi11.2": "où",
+      "de11": "Où sont les toilettes ?",
+      "de11.0": "où",
+      "de11.1": "est (3e personne du singulier de sein)",
+      "de11.2": "la (article défini féminin)",
+      "de11.3": "toilettes",
+      "ru11": "Où sont les toilettes ?",
+      "ru11.0": "où",
+      "ru11.1": "toilettes",
+      "ko11": "Où sont les toilettes ?",
+      "ko11.0": "les toilettes (+ marqueur du sujet)",
+      "ko11.1": "où est-ce (poli)"
     },
     "hi": {
       "s01": "मैं आज स्कूल गया",
@@ -5838,7 +6250,47 @@
       "ru10.1": "मैं",
       "ru10.2": "जाऊँगा (пойти)",
       "ru10.3": "की ओर, में",
-      "ru10.4": "पुस्तकालय को (библиотека, कर्म कारक)"
+      "ru10.4": "पुस्तकालय को (библиотека, कर्म कारक)",
+      "s11": "शौचालय कहाँ है?",
+      "s11.0": "कहाँ",
+      "s11.1": "है (be का तृतीय पुरुष एकवचन)",
+      "s11.2": "निश्चित उपपद (the)",
+      "s11.3": "बाथरूम, शौचालय",
+      "ja11": "शौचालय कहाँ है?",
+      "ja11.0": "शौचालय",
+      "ja11.1": "विषय सूचक (निपात)",
+      "ja11.2": "कहाँ",
+      "ja11.3": "है (विनम्र रूप)",
+      "ja11.4": "प्रश्नवाचक निपात",
+      "zh11": "शौचालय कहाँ है?",
+      "zh11.0": "शौचालय",
+      "zh11.1": "में होना, पर स्थित होना",
+      "zh11.2": "कहाँ",
+      "es11": "शौचालय कहाँ है?",
+      "es11.0": "कहाँ",
+      "es11.1": "है, स्थित है (estar का तृतीय पुरुष एकवचन)",
+      "es11.2": "निश्चित उपपद (पुल्लिंग)",
+      "es11.3": "बाथरूम, शौचालय",
+      "vi11": "शौचालय कहाँ है?",
+      "vi11.0": "शौचालय",
+      "vi11.1": "में होना, पर स्थित होना",
+      "vi11.2": "कहाँ",
+      "fr11": "शौचालय कहाँ है?",
+      "fr11.0": "कहाँ",
+      "fr11.1": "हैं (être का तृतीय पुरुष बहुवचन)",
+      "fr11.2": "निश्चित उपपद (बहुवचन)",
+      "fr11.3": "शौचालय (हमेशा बहुवचन)",
+      "de11": "शौचालय कहाँ है?",
+      "de11.0": "कहाँ",
+      "de11.1": "है (sein का तृतीय पुरुष एकवचन)",
+      "de11.2": "निश्चित उपपद (स्त्रीलिंग)",
+      "de11.3": "शौचालय",
+      "ru11": "शौचालय कहाँ है?",
+      "ru11.0": "कहाँ",
+      "ru11.1": "शौचालय",
+      "ko11": "शौचालय कहाँ है?",
+      "ko11.0": "शौचालय (+ कर्ता सूचक)",
+      "ko11.1": "कहाँ है (विनम्र)"
     },
     "id": {
       "s01": "Saya pergi ke sekolah hari ini",
@@ -6355,7 +6807,47 @@
       "ru10.1": "saya",
       "ru10.2": "akan pergi (пойти)",
       "ru10.3": "ke (arah)",
-      "ru10.4": "ke perpustakaan (библиотека, akusatif)"
+      "ru10.4": "ke perpustakaan (библиотека, akusatif)",
+      "s11": "Di mana kamar mandinya?",
+      "s11.0": "di mana",
+      "s11.1": "adalah, ada (bentuk orang ketiga tunggal be)",
+      "s11.2": "itu (kata sandang tertentu)",
+      "s11.3": "kamar mandi, toilet",
+      "ja11": "Di mana toiletnya?",
+      "ja11.0": "toilet",
+      "ja11.1": "penanda topik (partikel)",
+      "ja11.2": "di mana",
+      "ja11.3": "adalah (bentuk sopan)",
+      "ja11.4": "partikel tanya",
+      "zh11": "Di mana toiletnya?",
+      "zh11.0": "toilet",
+      "zh11.1": "berada di",
+      "zh11.2": "di mana",
+      "es11": "Di mana kamar mandinya?",
+      "es11.0": "di mana",
+      "es11.1": "ada, berada (bentuk orang ketiga tunggal estar)",
+      "es11.2": "itu (kata sandang tertentu maskulin)",
+      "es11.3": "kamar mandi, toilet",
+      "vi11": "Di mana toiletnya?",
+      "vi11.0": "toilet",
+      "vi11.1": "berada di",
+      "vi11.2": "di mana",
+      "fr11": "Di mana toiletnya?",
+      "fr11.0": "di mana",
+      "fr11.1": "ada, berada (bentuk orang ketiga jamak être)",
+      "fr11.2": "itu (kata sandang tertentu jamak)",
+      "fr11.3": "toilet (selalu jamak)",
+      "de11": "Di mana toiletnya?",
+      "de11.0": "di mana",
+      "de11.1": "ada, berada (bentuk orang ketiga tunggal sein)",
+      "de11.2": "itu (kata sandang tertentu feminin)",
+      "de11.3": "toilet",
+      "ru11": "Di mana toiletnya?",
+      "ru11.0": "di mana",
+      "ru11.1": "toilet",
+      "ko11": "Di mana toiletnya?",
+      "ko11.0": "toilet (+ penanda subjek)",
+      "ko11.1": "di mana (sopan)"
     },
     "it": {
       "s01": "Oggi sono andato a scuola",
@@ -6872,7 +7364,47 @@
       "ru10.1": "io",
       "ru10.2": "andrò (пойти)",
       "ru10.3": "in, verso (direzione)",
-      "ru10.4": "biblioteca (accusativo di библиотека)"
+      "ru10.4": "biblioteca (accusativo di библиотека)",
+      "s11": "Dov'è il bagno?",
+      "s11.0": "dove",
+      "s11.1": "è (terza persona singolare di be)",
+      "s11.2": "il, la (articolo determinativo)",
+      "s11.3": "bagno",
+      "ja11": "Dov'è il bagno?",
+      "ja11.0": "bagno",
+      "ja11.1": "marcatore di tema (particella)",
+      "ja11.2": "dove",
+      "ja11.3": "è (forma cortese)",
+      "ja11.4": "particella interrogativa",
+      "zh11": "Dov'è il bagno?",
+      "zh11.0": "bagno",
+      "zh11.1": "trovarsi a, essere a",
+      "zh11.2": "dove",
+      "es11": "Dov'è il bagno?",
+      "es11.0": "dove",
+      "es11.1": "è, si trova (terza persona singolare di estar)",
+      "es11.2": "il (articolo determinativo maschile)",
+      "es11.3": "bagno",
+      "vi11": "Dov'è il bagno?",
+      "vi11.0": "bagno",
+      "vi11.1": "trovarsi a, essere a",
+      "vi11.2": "dove",
+      "fr11": "Dov'è il bagno?",
+      "fr11.0": "dove",
+      "fr11.1": "sono (terza persona plurale di être)",
+      "fr11.2": "i, le (articolo determinativo plurale)",
+      "fr11.3": "bagno (sempre plurale)",
+      "de11": "Dov'è il bagno?",
+      "de11.0": "dove",
+      "de11.1": "è (terza persona singolare di sein)",
+      "de11.2": "la (articolo determinativo femminile)",
+      "de11.3": "bagno",
+      "ru11": "Dov'è il bagno?",
+      "ru11.0": "dove",
+      "ru11.1": "bagno",
+      "ko11": "Dov'è il bagno?",
+      "ko11.0": "il bagno (+ marcatore del soggetto)",
+      "ko11.1": "dov'è (cortese)"
     },
     "ja": {
       "s01": "私は今日学校に行った",
@@ -7324,7 +7856,41 @@
       "ru10.1": "私は",
       "ru10.2": "行くだろう（пойти）",
       "ru10.3": "～へ（方向）",
-      "ru10.4": "図書館へ（библиотекаの対格）"
+      "ru10.4": "図書館へ（библиотекаの対格）",
+      "s11": "トイレはどこですか？",
+      "s11.0": "どこ",
+      "s11.1": "～です、～にある（beの三人称単数）",
+      "s11.2": "その（定冠詞）",
+      "s11.3": "トイレ、お手洗い",
+      "zh11": "トイレはどこですか？",
+      "zh11.0": "トイレ、お手洗い",
+      "zh11.1": "～にある",
+      "zh11.2": "どこ",
+      "es11": "トイレはどこですか？",
+      "es11.0": "どこ",
+      "es11.1": "ある（estarの三人称単数）",
+      "es11.2": "その（男性定冠詞）",
+      "es11.3": "トイレ、お手洗い",
+      "vi11": "トイレはどこですか？",
+      "vi11.0": "トイレ、お手洗い",
+      "vi11.1": "～にある",
+      "vi11.2": "どこ",
+      "fr11": "トイレはどこですか？",
+      "fr11.0": "どこ",
+      "fr11.1": "ある（êtreの三人称複数）",
+      "fr11.2": "その（複数定冠詞）",
+      "fr11.3": "トイレ（常に複数形）",
+      "de11": "トイレはどこですか？",
+      "de11.0": "どこ",
+      "de11.1": "ある（seinの三人称単数）",
+      "de11.2": "その（女性定冠詞）",
+      "de11.3": "トイレ、お手洗い",
+      "ru11": "トイレはどこですか？",
+      "ru11.0": "どこ",
+      "ru11.1": "トイレ、お手洗い",
+      "ko11": "トイレはどこですか？",
+      "ko11.0": "トイレ＋が（主格助詞）",
+      "ko11.1": "どこですか（丁寧）"
     },
     "ms": {
       "s01": "Saya pergi ke sekolah hari ini",
@@ -7841,7 +8407,47 @@
       "ru10.1": "saya",
       "ru10.2": "akan pergi (пойти)",
       "ru10.3": "ke (arah)",
-      "ru10.4": "ke perpustakaan (библиотека, akusatif)"
+      "ru10.4": "ke perpustakaan (библиотека, akusatif)",
+      "s11": "Di manakah tandas?",
+      "s11.0": "di mana",
+      "s11.1": "ialah, berada (bentuk orang ketiga tunggal bagi be)",
+      "s11.2": "itu (kata sandang tentu)",
+      "s11.3": "tandas",
+      "ja11": "Di manakah tandas?",
+      "ja11.0": "tandas",
+      "ja11.1": "penanda topik (partikel)",
+      "ja11.2": "di mana",
+      "ja11.3": "ialah (sopan)",
+      "ja11.4": "penanda soalan (partikel)",
+      "zh11": "Di manakah tandas?",
+      "zh11.0": "tandas",
+      "zh11.1": "berada di",
+      "zh11.2": "di mana",
+      "es11": "Di manakah tandas?",
+      "es11.0": "di mana",
+      "es11.1": "berada (orang ketiga tunggal bagi estar)",
+      "es11.2": "itu (kata sandang tentu maskulin)",
+      "es11.3": "tandas",
+      "vi11": "Di manakah tandas?",
+      "vi11.0": "tandas",
+      "vi11.1": "berada di",
+      "vi11.2": "di mana",
+      "fr11": "Di manakah tandas?",
+      "fr11.0": "di mana",
+      "fr11.1": "berada (orang ketiga jamak bagi être)",
+      "fr11.2": "itu (kata sandang tentu jamak)",
+      "fr11.3": "tandas (sentiasa jamak)",
+      "de11": "Di manakah tandas?",
+      "de11.0": "di mana",
+      "de11.1": "berada (orang ketiga tunggal bagi sein)",
+      "de11.2": "itu (kata sandang tentu feminin)",
+      "de11.3": "tandas",
+      "ru11": "Di manakah tandas?",
+      "ru11.0": "di mana",
+      "ru11.1": "tandas",
+      "ko11": "Di manakah tandas?",
+      "ko11.0": "tandas (+ penanda subjek)",
+      "ko11.1": "di manakah (sopan)"
     },
     "pt": {
       "s01": "Eu fui à escola hoje",
@@ -8358,7 +8964,47 @@
       "ru10.1": "eu",
       "ru10.2": "irei (пойти)",
       "ru10.3": "para (direção)",
-      "ru10.4": "biblioteca (acusativo de библиотека)"
+      "ru10.4": "biblioteca (acusativo de библиотека)",
+      "s11": "Onde fica o banheiro?",
+      "s11.0": "onde",
+      "s11.1": "é, fica (3ª pessoa do singular de be)",
+      "s11.2": "o (artigo definido)",
+      "s11.3": "banheiro",
+      "ja11": "Onde fica o banheiro?",
+      "ja11.0": "banheiro",
+      "ja11.1": "marcador de tópico (partícula)",
+      "ja11.2": "onde",
+      "ja11.3": "é (forma educada)",
+      "ja11.4": "marcador de pergunta (partícula)",
+      "zh11": "Onde fica o banheiro?",
+      "zh11.0": "banheiro",
+      "zh11.1": "estar em, ficar em",
+      "zh11.2": "onde",
+      "es11": "Onde fica o banheiro?",
+      "es11.0": "onde",
+      "es11.1": "está (3ª pessoa do singular de estar)",
+      "es11.2": "o (artigo definido masculino)",
+      "es11.3": "banheiro",
+      "vi11": "Onde fica o banheiro?",
+      "vi11.0": "banheiro",
+      "vi11.1": "estar em, ficar em",
+      "vi11.2": "onde",
+      "fr11": "Onde fica o banheiro?",
+      "fr11.0": "onde",
+      "fr11.1": "estão, ficam (3ª pessoa do plural de être)",
+      "fr11.2": "os (artigo definido plural)",
+      "fr11.3": "banheiro (sempre no plural)",
+      "de11": "Onde fica o banheiro?",
+      "de11.0": "onde",
+      "de11.1": "está, fica (3ª pessoa do singular de sein)",
+      "de11.2": "a (artigo definido feminino)",
+      "de11.3": "banheiro",
+      "ru11": "Onde fica o banheiro?",
+      "ru11.0": "onde",
+      "ru11.1": "banheiro",
+      "ko11": "Onde fica o banheiro?",
+      "ko11.0": "o banheiro (+ marcador de sujeito)",
+      "ko11.1": "onde fica (forma educada)"
     },
     "ru": {
       "s01": "Сегодня я ходил в школу.",
@@ -8823,7 +9469,44 @@
       "de10.2": "я",
       "de10.3": "в (внутрь)",
       "de10.4": "определённый артикль ж. р. (винительный)",
-      "de10.5": "библиотека"
+      "de10.5": "библиотека",
+      "s11": "Где туалет?",
+      "s11.0": "где",
+      "s11.1": "есть, находится (3-е лицо ед. ч. от be)",
+      "s11.2": "этот (определённый артикль)",
+      "s11.3": "туалет",
+      "ja11": "Где туалет?",
+      "ja11.0": "туалет",
+      "ja11.1": "показатель темы (частица)",
+      "ja11.2": "где",
+      "ja11.3": "есть, является (вежливо)",
+      "ja11.4": "вопросительная частица",
+      "zh11": "Где туалет?",
+      "zh11.0": "туалет",
+      "zh11.1": "находиться в",
+      "zh11.2": "где",
+      "es11": "Где туалет?",
+      "es11.0": "где",
+      "es11.1": "находится (3-е лицо ед. ч. от estar)",
+      "es11.2": "этот (определённый артикль м. р.)",
+      "es11.3": "туалет",
+      "vi11": "Где туалет?",
+      "vi11.0": "туалет",
+      "vi11.1": "находиться в",
+      "vi11.2": "где",
+      "fr11": "Где туалет?",
+      "fr11.0": "где",
+      "fr11.1": "находятся (3-е лицо мн. ч. от être)",
+      "fr11.2": "эти (определённый артикль мн. ч.)",
+      "fr11.3": "туалет (всегда во мн. ч.)",
+      "de11": "Где туалет?",
+      "de11.0": "где",
+      "de11.1": "находится (3-е лицо ед. ч. от sein)",
+      "de11.2": "этот (определённый артикль ж. р.)",
+      "de11.3": "туалет",
+      "ko11": "Где туалет?",
+      "ko11.0": "туалет (+ показатель подлежащего)",
+      "ko11.1": "где (вежливо)"
     },
     "th": {
       "s01": "วันนี้ฉันไปโรงเรียน",
@@ -9340,7 +10023,47 @@
       "ru10.1": "ฉัน",
       "ru10.2": "จะไป (пойти)",
       "ru10.3": "ไปยัง (ทิศทาง)",
-      "ru10.4": "ห้องสมุด (กรรมการกของ библиотека)"
+      "ru10.4": "ห้องสมุด (กรรมการกของ библиотека)",
+      "s11": "ห้องน้ำอยู่ที่ไหน",
+      "s11.0": "ที่ไหน",
+      "s11.1": "เป็น/อยู่ (be รูปบุรุษที่ 3 เอกพจน์)",
+      "s11.2": "นั้น (คำนำหน้านามชี้เฉพาะ)",
+      "s11.3": "ห้องน้ำ",
+      "ja11": "ห้องน้ำอยู่ที่ไหน",
+      "ja11.0": "ห้องน้ำ",
+      "ja11.1": "คำชี้หัวเรื่อง (คำช่วย)",
+      "ja11.2": "ที่ไหน",
+      "ja11.3": "คือ, เป็น (สุภาพ)",
+      "ja11.4": "ไหม (คำช่วยแสดงคำถาม)",
+      "zh11": "ห้องน้ำอยู่ที่ไหน",
+      "zh11.0": "ห้องน้ำ",
+      "zh11.1": "อยู่ที่",
+      "zh11.2": "ที่ไหน",
+      "es11": "ห้องน้ำอยู่ที่ไหน",
+      "es11.0": "ที่ไหน",
+      "es11.1": "อยู่ (estar รูปบุรุษที่ 3 เอกพจน์)",
+      "es11.2": "นั้น (คำนำหน้านามชี้เฉพาะ เพศชาย)",
+      "es11.3": "ห้องน้ำ",
+      "vi11": "ห้องน้ำอยู่ที่ไหน",
+      "vi11.0": "ห้องน้ำ",
+      "vi11.1": "อยู่ที่",
+      "vi11.2": "ที่ไหน",
+      "fr11": "ห้องน้ำอยู่ที่ไหน",
+      "fr11.0": "ที่ไหน",
+      "fr11.1": "อยู่ (être รูปบุรุษที่ 3 พหูพจน์)",
+      "fr11.2": "นั้น (คำนำหน้านามชี้เฉพาะ พหูพจน์)",
+      "fr11.3": "ห้องน้ำ (ใช้รูปพหูพจน์เสมอ)",
+      "de11": "ห้องน้ำอยู่ที่ไหน",
+      "de11.0": "ที่ไหน",
+      "de11.1": "อยู่ (sein รูปบุรุษที่ 3 เอกพจน์)",
+      "de11.2": "นั้น (คำนำหน้านามชี้เฉพาะ เพศหญิง)",
+      "de11.3": "ห้องน้ำ",
+      "ru11": "ห้องน้ำอยู่ที่ไหน",
+      "ru11.0": "ที่ไหน",
+      "ru11.1": "ห้องน้ำ",
+      "ko11": "ห้องน้ำอยู่ที่ไหน",
+      "ko11.0": "ห้องน้ำ (+ คำชี้ประธาน)",
+      "ko11.1": "อยู่ที่ไหน (สุภาพ)"
     },
     "vi": {
       "s01": "Hôm nay tôi đã đến trường",
@@ -9802,7 +10525,43 @@
       "ru10.1": "tôi",
       "ru10.2": "sẽ đi (пойти)",
       "ru10.3": "đến (chỉ hướng)",
-      "ru10.4": "thư viện (đối cách của библиотека)"
+      "ru10.4": "thư viện (đối cách của библиотека)",
+      "s11": "Nhà vệ sinh ở đâu?",
+      "s11.0": "ở đâu",
+      "s11.1": "là/ở (ngôi thứ 3 số ít của be)",
+      "s11.2": "cái (mạo từ xác định)",
+      "s11.3": "nhà vệ sinh",
+      "ja11": "Nhà vệ sinh ở đâu?",
+      "ja11.0": "nhà vệ sinh",
+      "ja11.1": "trợ từ chủ đề (trợ từ)",
+      "ja11.2": "ở đâu",
+      "ja11.3": "là (lịch sự)",
+      "ja11.4": "không? (trợ từ nghi vấn)",
+      "zh11": "Nhà vệ sinh ở đâu?",
+      "zh11.0": "nhà vệ sinh",
+      "zh11.1": "ở",
+      "zh11.2": "ở đâu",
+      "es11": "Nhà vệ sinh ở đâu?",
+      "es11.0": "ở đâu",
+      "es11.1": "ở (ngôi thứ 3 số ít của estar)",
+      "es11.2": "cái (mạo từ xác định giống đực)",
+      "es11.3": "nhà vệ sinh",
+      "fr11": "Nhà vệ sinh ở đâu?",
+      "fr11.0": "ở đâu",
+      "fr11.1": "ở (ngôi thứ 3 số nhiều của être)",
+      "fr11.2": "các (mạo từ xác định số nhiều)",
+      "fr11.3": "nhà vệ sinh (luôn ở số nhiều)",
+      "de11": "Nhà vệ sinh ở đâu?",
+      "de11.0": "ở đâu",
+      "de11.1": "ở (ngôi thứ 3 số ít của sein)",
+      "de11.2": "cái (mạo từ xác định giống cái)",
+      "de11.3": "nhà vệ sinh",
+      "ru11": "Nhà vệ sinh ở đâu?",
+      "ru11.0": "ở đâu",
+      "ru11.1": "nhà vệ sinh",
+      "ko11": "Nhà vệ sinh ở đâu?",
+      "ko11.0": "nhà vệ sinh (+ trợ từ chủ ngữ)",
+      "ko11.1": "ở đâu ạ (lịch sự)"
     },
     "zh-CN": {
       "s01": "我今天去了学校",
@@ -10266,7 +11025,43 @@
       "ru10.1": "我",
       "ru10.2": "将去（пойти）",
       "ru10.3": "到，往（方向）",
-      "ru10.4": "图书馆（библиотека 的宾格）"
+      "ru10.4": "图书馆（библиотека 的宾格）",
+      "s11": "洗手间在哪里？",
+      "s11.0": "哪里",
+      "s11.1": "是/在（be 的第三人称单数）",
+      "s11.2": "这个，那个（定冠词）",
+      "s11.3": "洗手间",
+      "ja11": "洗手间在哪里？",
+      "ja11.0": "洗手间",
+      "ja11.1": "主题标记（助词）",
+      "ja11.2": "哪里",
+      "ja11.3": "是（礼貌语）",
+      "ja11.4": "吗（疑问助词）",
+      "es11": "洗手间在哪里？",
+      "es11.0": "哪里",
+      "es11.1": "在（estar 的第三人称单数）",
+      "es11.2": "这个，那个（阳性定冠词）",
+      "es11.3": "洗手间",
+      "vi11": "洗手间在哪里？",
+      "vi11.0": "洗手间",
+      "vi11.1": "在",
+      "vi11.2": "哪里",
+      "fr11": "洗手间在哪里？",
+      "fr11.0": "哪里",
+      "fr11.1": "在（être 的第三人称复数）",
+      "fr11.2": "这些，那些（复数定冠词）",
+      "fr11.3": "洗手间（总是用复数）",
+      "de11": "洗手间在哪里？",
+      "de11.0": "哪里",
+      "de11.1": "在（sein 的第三人称单数）",
+      "de11.2": "这个，那个（阴性定冠词）",
+      "de11.3": "洗手间",
+      "ru11": "洗手间在哪里？",
+      "ru11.0": "哪里",
+      "ru11.1": "洗手间",
+      "ko11": "洗手间在哪里？",
+      "ko11.0": "洗手间（+ 主语助词）",
+      "ko11.1": "在哪里（敬语）"
     },
     "zh-TW": {
       "s01": "我今天去了學校",
@@ -10730,7 +11525,43 @@
       "ru10.1": "我",
       "ru10.2": "將去（пойти）",
       "ru10.3": "到，往（方向）",
-      "ru10.4": "圖書館（библиотека 的受格）"
+      "ru10.4": "圖書館（библиотека 的受格）",
+      "s11": "洗手間在哪裡？",
+      "s11.0": "哪裡",
+      "s11.1": "是/在（be 的第三人稱單數）",
+      "s11.2": "這個，那個（定冠詞）",
+      "s11.3": "洗手間",
+      "ja11": "洗手間在哪裡？",
+      "ja11.0": "洗手間",
+      "ja11.1": "主題標記（助詞）",
+      "ja11.2": "哪裡",
+      "ja11.3": "是（禮貌語）",
+      "ja11.4": "嗎（疑問助詞）",
+      "es11": "洗手間在哪裡？",
+      "es11.0": "哪裡",
+      "es11.1": "在（estar 的第三人稱單數）",
+      "es11.2": "這個，那個（陽性定冠詞）",
+      "es11.3": "洗手間",
+      "vi11": "洗手間在哪裡？",
+      "vi11.0": "洗手間",
+      "vi11.1": "在",
+      "vi11.2": "哪裡",
+      "fr11": "洗手間在哪裡？",
+      "fr11.0": "哪裡",
+      "fr11.1": "在（être 的第三人稱複數）",
+      "fr11.2": "這些，那些（複數定冠詞）",
+      "fr11.3": "洗手間（總是用複數）",
+      "de11": "洗手間在哪裡？",
+      "de11.0": "哪裡",
+      "de11.1": "在（sein 的第三人稱單數）",
+      "de11.2": "這個，那個（陰性定冠詞）",
+      "de11.3": "洗手間",
+      "ru11": "洗手間在哪裡？",
+      "ru11.0": "哪裡",
+      "ru11.1": "洗手間",
+      "ko11": "洗手間在哪裡？",
+      "ko11.0": "洗手間（+ 主語助詞）",
+      "ko11.1": "在哪裡（敬語）"
     }
   }
 }
